@@ -1,4 +1,4 @@
-# AWS Marketplace VARCO TTS Sample Note
+# AWS Marketplace VARCO TTS Sample Notebook
 
 ## VARCO TTS Lite
 VARCO TTS LITE is a low-latency, high-throughput engine for large-scale real-time speech synthesis. It offers a wide range of voices optimized for in-game characters—NPCs, avatars, and story narration—while keeping audio quality stable and consistent across sessions.
